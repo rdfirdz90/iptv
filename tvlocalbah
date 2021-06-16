@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:0 tvg-id="tv3" group-title="MALAY",TV3
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSSohDm2oijkPmfl2eJW7nQ)/dm/3/x6qp375/d/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
-
-#EXTINF:0 tvg-id="ext" group-title="New Group",TV 9
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR54zJRsOSrLu2Wwfmb2Ohc)/dm/3/x6qqja6/s/live-4.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
