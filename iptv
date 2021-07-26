@@ -1,28 +1,27 @@
 #EXTM3U
-#EXTINF:0 tvg-id="tv1-lt" group-title="LIVE | MEDIA PRIMA",TV 1
+#EXTINF:0 tvg-id="tv1-lt" group-title="Malaysia",TV 1
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7177
-#EXTINF:0 tvg-id="tv2.hu" group-title="LIVE | MEDIA PRIMA",TV 2
+#EXTINF:0 tvg-id="tv2.hu" group-title="Malaysia",TV 2
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7178
-#EXTINF:0 tvg-id="VirginMediaOne.ie" group-title="LIVE | MEDIA PRIMA",TV 3 HD
+#EXTINF:0 tvg-id="VirginMediaOne.ie" group-title="Malaysia",TV 3
 http://iptv.tvmalaysia.cc:80/penang172/penang172/8750
-
-#EXTINF:0 tvg-id="ext" group-title="LIVE | ASTRO",ASTRO Ria HD
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Ria
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
-#EXTINF:0 tvg-id="ext" group-title="LIVE | ASTRO",ASTRO Prima HD
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Asto Prima
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
-#EXTINF:0 tvg-id="ext" group-title="LIVE | ASTRO",ASTRO Oasis HD
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Oasis
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6725
-#EXTINF:0 tvg-id="ext" group-title="LIVE | ASTRO",ASTRO Warna HD
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Warna
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
-#EXTINF:0 tvg-id="ext" group-title="LIVE | ASTRO",Astro Citra HD
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Citra
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
-#EXTINF:0 tvg-id="ext" group-title="LIVE | ASTRO",ASTRO Naura HD
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Naura
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6724
-#EXTINF:0 tvg-id="ext" group-title="LIVE | ASTRO",ASTRO Rania HD
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Rania
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
-#EXTINF:0 tvg-id="ext" group-title="LIVE | ASTRO",ASTRO Aura HD
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Aura
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
-#EXTINF:0 tvg-id="ext" group-title="LIVE | ASTRO",TV-AlHijrah
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",TV Al-Hijrah
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6834
-#EXTINF:0 tvg-id="Colors.in" group-title="LIVE | ASTRO",Colors HD
+#EXTINF:0 tvg-id="Colors.in" group-title="Malaysia",Astro Color
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6769
