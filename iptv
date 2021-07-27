@@ -1,27 +1,256 @@
 #EXTM3U
-#EXTINF:0 tvg-id="tv1-lt" group-title="Malaysia",TV 1
+#EXTINF:0 tvg-id="tv1-lt" group-title="Malaysia",TV 1 (RTM)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7177
-#EXTINF:0 tvg-id="tv2.hu" group-title="Malaysia",TV 2
+#EXTINF:0 tvg-id="tv2.hu" group-title="Malaysia",TV 2 (RTM)
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7178
 #EXTINF:0 tvg-id="VirginMediaOne.ie" group-title="Malaysia",TV 3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7266
+#EXTINF:0 tvg-id="VirginMediaOne.ie" group-title="Malaysia",TV 3 HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/8750
-#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Ria
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",RTM Sports
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7186
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Bernama
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7190
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Ria HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
-#EXTINF:0 tvg-id="ext" group-title="Malaysia",Asto Prima
+#EXTINF:0 tvg-id="PrimaTV.cz" group-title="Malaysia",Prima HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
-#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Oasis
+#EXTINF:0 tvg-id="OasisHD.ca" group-title="Malaysia",Oasis HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6725
-#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Warna
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Warna HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
-#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Citra
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Citra HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
-#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Naura
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Naura HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6724
-#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Rania
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Rania HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
-#EXTINF:0 tvg-id="ext" group-title="Malaysia",Astro Aura
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Aura HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
 #EXTINF:0 tvg-id="ext" group-title="Malaysia",TV Al-Hijrah
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6834
-#EXTINF:0 tvg-id="Colors.in" group-title="Malaysia",Astro Color
+#EXTINF:0 tvg-id="TVS.pl" group-title="Malaysia",TVS (Sarawak)
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",TVS (Sarawak) HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6846
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",Didik TV | NTV 7
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8922
+#EXTINF:0 tvg-id="ext" group-title="Malaysia",TV 9
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7185
+
+#EXTINF:0 tvg-id="ext" group-title="Aneka India",Vaanavil HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6738
+#EXTINF:0 tvg-id="ext" group-title="Aneka India",Vinmeen HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
+#EXTINF:0 tvg-id="ext" group-title="Aneka India",Makkal TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
+#EXTINF:0 tvg-id="SunTvHD.in" group-title="Aneka India",Sun TV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6733
+#EXTINF:0 tvg-id="SunMusic.in" group-title="Aneka India",Sun Music
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6831
+#EXTINF:0 tvg-id="ChuttiTV.in" group-title="Aneka India",Chutti TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6762
+#EXTINF:0 tvg-id="AdithyaTV.in" group-title="Aneka India",Adithya
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6700
+#EXTINF:0 tvg-id="ext" group-title="Aneka India",Star Vijay HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
+#EXTINF:0 tvg-id="Colors.in" group-title="Aneka India",Colors HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6769
+#EXTINF:0 tvg-id="ext" group-title="Aneka India",Zee Tamil HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
+
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",iQIYI HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6723
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",Xiao Tai Yang HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6741
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",TVB Classic
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6839
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",AEC HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6701
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",Shuang Xing HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6731
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",Quan Jia HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6728
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",Celestial Movies HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6760
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",TVB Jade HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6841
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",AOD 311
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",CTI Asia
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6771
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",TVB E-News
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6840
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",TVB Xing He HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6842
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",TVBS Asia HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6843
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",Celestial Classic Movies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6758
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",Hua Hee Dai HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6722
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",CCTV4 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6759
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",AOD 351 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6702
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",AOD 352 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6703
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",AOD 353 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6704
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",AOD 354 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6705
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",AOD 355 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6706
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",World HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6803
+#EXTINF:0 tvg-id="BBC1London.uk" group-title="Aneka Asia",One HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6817
+#EXTINF:0 tvg-id="ext" group-title="Aneka Asia",Oh!K HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6726
+#EXTINF:0 tvg-id="TVN.pl" group-title="Aneka Asia",tvN HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6844
+
+#EXTINF:0 tvg-id="ext" group-title="Movies",Hits Movies HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6801
+#EXTINF:0 tvg-id="ext" group-title="Movies",Boo
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8872
+#EXTINF:0 tvg-id="HBO.hu" group-title="Movies",HBO HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6797
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Movies",Cinemax HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6764
+#EXTINF:0 tvg-id="ext" group-title="Movies",Fox Movies Premium
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8838
+#EXTINF:0 tvg-id="ext" group-title="Movies",Fox Action Movies
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8839
+#EXTINF:0 tvg-id="ext" group-title="Movies",tVN movies HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7074
+#EXTINF:0 tvg-id="HGTV.pl" group-title="Movies",HGTV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6798
+#EXTINF:0 tvg-id="DMAX.it" group-title="Movies",DMAX HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6778
+#EXTINF:0 tvg-id="MTV.uk" group-title="Movies",MTV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6807
+#EXTINF:0 tvg-id="Animax.de" group-title="Movies",Animax
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6696
+
+#EXTINF:0 tvg-id="ext" group-title="News",Awani HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6714
+#EXTINF:0 tvg-id="ext" group-title="News",Bernama News
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6750
+#EXTINF:0 tvg-id="CNN.nws" group-title="News",CNN HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6767
+#EXTINF:0 tvg-id="ext" group-title="News",TH | BBC World News
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8784
+#EXTINF:0 tvg-id="ext" group-title="News",TH | Al Jazeera
+http://iptv.tvmalaysia.cc:80/penang172/penang172/8787
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="News",Sky News HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6826
+#EXTINF:0 tvg-id="CNBC.nws" group-title="News",CNBC
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6766
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="News",Bloomberg TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6751
+#EXTINF:0 tvg-id="ext" group-title="News",ABC Australia
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6692
+
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Documentaries",National Geographic HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Documentaries",Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
+#EXTINF:0 tvg-id="ext" group-title="Documentaries",Discovery Asia
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6772
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Documentaries",Discovery Science HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6774
+#EXTINF:0 tvg-id="History.uk" group-title="Documentaries",History HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6799
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Documentaries",Animal Planet HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6695
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="Documentaries",Food Network HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6785
+#EXTINF:0 tvg-id="ext" group-title="Documentaries",Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
+#EXTINF:0 tvg-id="NatGeoPeople.it" group-title="Documentaries",Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
+#EXTINF:0 tvg-id="ext" group-title="Documentaries",Warner TV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Documentaries",crime & investigation HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6756
+
+#EXTINF:0 tvg-id="ext" group-title="Learning",Tutor TV UPSR
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6736
+#EXTINF:0 tvg-id="ext" group-title="Learning",Tutor TV PT3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6734
+#EXTINF:0 tvg-id="ext" group-title="Learning",Tutor TV SPM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6735
+#EXTINF:0 tvg-id="ext" group-title="Learning",TVIQ
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6737
+
+#EXTINF:0 tvg-id="ext" group-title="Cartoon",Ceria HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Cartoon",Cartoon Network HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6757
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Cartoon",Nickelodeon HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6814
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Cartoon",Nick Jr
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6813
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Cartoon",Boomerang
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
+
+#EXTINF:0 tvg-id="AXN.it" group-title="English Movie",AXN HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6743
+#EXTINF:0 tvg-id="ext" group-title="English Movie",ASTRO Hello
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6721
+#EXTINF:0 tvg-id="fox-life" group-title="English Movie",Fox Life
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7228
+#EXTINF:0 tvg-id="FX.uk" group-title="English Movie",FOX
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7227
+#EXTINF:0 tvg-id="ext" group-title="English Movie",Kix HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6804
+#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="English Movie",Hits HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6800
+#EXTINF:0 tvg-id="TLC.uk" group-title="English Movie",TLC HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6832
+#EXTINF:0 tvg-id="ext" group-title="English Movie",FX Cinema HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6795
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",eGG Network
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6783
+#EXTINF:0 tvg-id="ext" group-title="Sport",Arena HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
+#EXTINF:0 tvg-id="ext" group-title="Sport",Supersport HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+#EXTINF:0 tvg-id="ext" group-title="Sport",Supersport 2 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+#EXTINF:0 tvg-id="ext" group-title="Sport",Supersport 3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
+#EXTINF:0 tvg-id="ext" group-title="Sport",Supersport 4 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Sport",FOX Sports HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Sport",FOX Sports 2 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
+#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Sport",FOX Sports 3 HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Sport",beIN Sports
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6749
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN MAX
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN MAX 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7195
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",BeIN Sport 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6597
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Sport",BeIN Sport 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6598
+#EXTINF:0 tvg-id="bein13hd.jsc" group-title="Sport",BeIN Sport 13
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6609
+#EXTINF:0 tvg-id="Eurosport.int" group-title="Sport",Eurosport HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6784
+#EXTINF:0 tvg-id="WWE.ca" group-title="Sport",WWE Network
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6849
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="Sport",Golf Channel HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6796
+#EXTINF:0 tvg-id="ext" group-title="Sport",Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6821
+#EXTINF:0 tvg-id="ext" group-title="Sport",Cricket
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
