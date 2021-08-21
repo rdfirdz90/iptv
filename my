@@ -199,12 +199,10 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/6799
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6798
 #EXTINF:-1 tvg-id="MY: HBO HD" tvg-name="HBO HD" tvg-logo="http://tvmalaysia.cc:80/images/19c0a3768306086c9601f4c7c5a5cc81.jpg" group-title="Astro",HBO HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6797
-#EXTINF:-1 tvg-name="WLT JADE" group-title="Astro",WLT JADE
+#EXTINF:-1 tvg-name="WLT JADE" tvg-logo="https://xuan.com.my/getattachment/db630048-d954-41c4-a485-94de3ecc7b1e/WLT-TVB-Jade.png" group-title="Astro",WLT JADE
 http://iptv.tvmalaysia.cc:80/penang123/penang123/8836
-#EXTINF:-1 tvg-name="Astro Wah Lai Toi" group-title="Astro",Wah Lai Toi
+#EXTINF:-1 tvg-name="Astro Wah Lai Toi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" group-title="Astro",Wah Lai Toi
 http://iptv.tvmalaysia.cc:80/penang123/penang123/8970
-#EXTINF:-1 tvg-name="மக்கள் தொலைக்காட்சி" group-title="Astro",மக்கள் தொலைக்காட்சி
-http://iptv.tvmalaysia.cc:80/penang123/penang123/8995
 #EXTINF:-1 tvg-id="tv1.my" tvg-name="TV 1" tvg-logo="http://tvmalaysia.cc:80/images/3a5bd2db93ff7c8fa8cfa766ec51481b.png" group-title="Malaysia",TV 1
 http://iptv.tvmalaysia.cc:80/penang123/penang123/7177
 #EXTINF:-1 tvg-id="tv2.my" tvg-name="TV 2" tvg-logo="http://tvmalaysia.cc:80/images/881a902a067b6a619e8dd491e704964c.png" group-title="Malaysia",TV 2
@@ -223,7 +221,7 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/7191
 http://iptv.tvmalaysia.cc:80/penang123/penang123/7190
 #EXTINF:-1 tvg-id="ID: !NSERT" tvg-name="RTB MALAYSIA" tvg-logo="https://i.postimg.cc/wjjd9YH7/RTB-Sukmaindera.png" group-title="Malaysia",RTB MALAYSIA
 http://iptv.tvmalaysia.cc:80/penang123/penang123/7188
-#EXTINF:-1 tvg-id="ntv7.my" tvg-name="Didik TV (NTV 7)" group-title="Malaysia",Didik TV (NTV 7)
+#EXTINF:-1 tvg-id="ntv7.my" tvg-name="Didik TV (NTV 7)" tvg-logo="https://didik.tv/images/logotv2.png" group-title="Malaysia",Didik TV (NTV 7)
 http://iptv.tvmalaysia.cc:80/penang123/penang123/8922
 #EXTINF:-1 tvg-id="foxmoviespremiumhd.id" tvg-name="Fox Movies Premium" tvg-logo="http://tvmalaysia.cc:80/images/063a1e48ae1996a258b35db937d48c9b.jpg" group-title="Movie",Fox Movies Premium
 http://iptv.tvmalaysia.cc:80/penang123/penang123/8838
@@ -267,9 +265,9 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/7222
 http://iptv.tvmalaysia.cc:80/penang123/penang123/7235
 #EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="http://tvmalaysia.cc:80/images/ac70f22a3e263c94424e4f488136489e.png" group-title="Movie",Star Movies HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/8997
-#EXTINF:-1 tvg-name="MNX" group-title="Movie",MNX
+#EXTINF:-1 tvg-name="MNX" tvg-logo="https://cloudfront.timesnownews.com/site/tnad/timesnetwork/mnx_hd.png" group-title="Movie",MNX
 http://iptv.tvmalaysia.cc:80/penang123/penang123/8998
-#EXTINF:-1 tvg-name="Movies Now" group-title="Movie",Movies Now
+#EXTINF:-1 tvg-name="Movies Now" tvg-logo="https://e7.pngegg.com/pngimages/922/754/png-clipart-movies-now-television-channel-high-definition-television-mn-movies-miscellaneous-television.png" group-title="Movie",Movies Now
 http://iptv.tvmalaysia.cc:80/penang123/penang123/8999
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-name="National Geographic HD" tvg-logo="https://609528.smushcdn.com/606234/wp-content/uploads/2020/01/National-Geographic-logo.jpg?lossy=1&strip=1&webp=1" group-title="Documentary",National Geographic HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/7075
