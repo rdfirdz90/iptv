@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="astroria.my" tvg-name="ASTRO Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/92d374077520f51a0bbcc2316400b160.png" group-title="Astro",ASTRO Ria HD
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="ASTRO Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/92d374077520f51a0bbcc2316400b160.png" group-title="Astro",Ria HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6730
-#EXTINF:-1 tvg-id="astroprima.my" tvg-name="ASTRO Prima HD" tvg-logo="http://tvmalaysia.cc:80/images/a004afb90cb82b79aa75399df806306a.png" group-title="Astro",ASTRO Prima HD
+#EXTINF:-1 tvg-id="astroprima.my" tvg-name="ASTRO Prima HD" tvg-logo="http://tvmalaysia.cc:80/images/a004afb90cb82b79aa75399df806306a.png" group-title="Astro",Prima HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6727
-#EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5b79d07a6bc50bc8ebebd635cb09c195.png" group-title="Astro",ASTRO Warna HD
+#EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5b79d07a6bc50bc8ebebd635cb09c195.png" group-title="Astro",Warna HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6740
-#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="Astro Citra HD (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/d5f15dd37f6373993e7ce1bbf5865cde.png" group-title="Astro",Astro Citra HD (subtitle)
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="Astro Citra HD (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/d5f15dd37f6373993e7ce1bbf5865cde.png" group-title="Astro",Citra HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/7267
 #EXTINF:-1 tvg-id="boo.my" tvg-name="Astro Boo" tvg-logo="http://tvmalaysia.cc:80/images/f2def2608fa005a5a09534d4edd51576.jpg" group-title="Astro",Astro Boo
 http://iptv.tvmalaysia.cc:80/penang123/penang123/8872
-#EXTINF:-1 tvg-id="naura.my" tvg-name="ASTRO Naura HD" tvg-logo="http://tvmalaysia.cc:80/images/3fc806e53327b40380da6ee1da935b08.png" group-title="Astro",ASTRO Naura HD
+#EXTINF:-1 tvg-id="naura.my" tvg-name="ASTRO Naura HD" tvg-logo="http://tvmalaysia.cc:80/images/3fc806e53327b40380da6ee1da935b08.png" group-title="Astro",Naura HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6724
 #EXTINF:-1 tvg-id="awesometv.my" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/0146208cd80a3023076acb907b451381.png" group-title="Astro",Awesome TV
 http://iptv.tvmalaysia.cc:80/penang123/penang123/9016
-#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="http://tvmalaysia.cc:80/images/204c81bf83a076777488ae8222c4e7d4.png" group-title="Astro",ASTRO Oasis HD
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="http://tvmalaysia.cc:80/images/204c81bf83a076777488ae8222c4e7d4.png" group-title="Astro",Oasis HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6725
-#EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="Astro",ASTRO Aura HD
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="Astro",Aura HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6713
-#EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="Astro",ASTRO Rania HD
+#EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="Astro",Rania HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6729
-#EXTINF:-1 tvg-id="astroawani.my" tvg-name="ASTRO Awani HD" tvg-logo="http://tvmalaysia.cc:80/images/3bee1d8c69f8fd72b53dba6e2feef0f7.png" group-title="Astro",ASTRO Awani HD
+#EXTINF:-1 tvg-id="astroawani.my" tvg-name="ASTRO Awani HD" tvg-logo="http://tvmalaysia.cc:80/images/3bee1d8c69f8fd72b53dba6e2feef0f7.png" group-title="Astro",Awani HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6714
-#EXTINF:-1 tvg-id="astroceria.my" tvg-name="ASTRO Ceria HD" tvg-logo="http://tvmalaysia.cc:80/images/0bb9f1ec6575c3609eb8af6c1ba0e154.jpg" group-title="Astro",ASTRO Ceria HD
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="ASTRO Ceria HD" tvg-logo="http://tvmalaysia.cc:80/images/0bb9f1ec6575c3609eb8af6c1ba0e154.jpg" group-title="Astro",Ceria HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6715
 #EXTINF:-1 tvg-id="MY: ABC AUSTRALIA" tvg-name="ABC Australia" tvg-logo="http://tvmalaysia.cc:80/images/cd8015182af2a1350c156be7f4913720.jpg" group-title="Astro",ABC Australia
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6692
@@ -35,61 +35,51 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/6695
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6696
 #EXTINF:-1 tvg-id="MY: ANIPLUS" tvg-name="Aniplus HD" tvg-logo="https://i.postimg.cc/dtQMKrQQ/ZZ-Pw-KWt-400x400.jpg" group-title="Astro",Aniplus HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6697
-#EXTINF:-1 tvg-id="MY: ADITHYA" tvg-name="ASTRO Adithya" tvg-logo="http://tvmalaysia.cc:80/images/76917ae2ac81b8de5946b5e24e45fd97.jpg" group-title="Astro",ASTRO Adithya
+#EXTINF:-1 tvg-id="MY: ADITHYA" tvg-name="ASTRO Adithya" tvg-logo="http://tvmalaysia.cc:80/images/76917ae2ac81b8de5946b5e24e45fd97.jpg" group-title="Astro",Adithya
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6700
-#EXTINF:-1 tvg-id="astroaec.my" tvg-name="ASTRO AEC HD" tvg-logo="http://tvmalaysia.cc:80/images/5f0b2fcdea4c1ae4db0247a7048f9195.png" group-title="Astro",ASTRO AEC HD
+#EXTINF:-1 tvg-id="astroaec.my" tvg-name="ASTRO AEC HD" tvg-logo="http://tvmalaysia.cc:80/images/5f0b2fcdea4c1ae4db0247a7048f9195.png" group-title="Astro",AEC HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6701
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND HD 311" tvg-name="ASTRO AOD 351 HD" tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="Astro",ASTRO AOD 351 HD
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6702
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 352" tvg-name=" ASTRO AOD 352 HD" tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="Astro", ASTRO AOD 352 HD
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6703
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 353" tvg-name="ASTRO AOD 353 HD" tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="Astro",ASTRO AOD 353 HD
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6704
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 354" tvg-name="ASTRO AOD 354 HD" tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="Astro",ASTRO AOD 354 HD
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6705
-#EXTINF:-1 tvg-id="MY: ASTRO ON DEMAND 355" tvg-name="ASTRO AOD 355 HD" tvg-logo="http://tvmalaysia.cc:80/images/c80fbc0c1c459c6f112b564e69a15440.png" group-title="Astro",ASTRO AOD 355 HD
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6706
-#EXTINF:-1 tvg-id="MY: COLORS TAMIL HD" tvg-name="ASTRO Colors Tamil" tvg-logo="http://tvmalaysia.cc:80/images/d009936ac07ce93aff60ca243a935867.png" group-title="Astro",ASTRO Colors Tamil
+#EXTINF:-1 tvg-id="MY: COLORS TAMIL HD" tvg-name="ASTRO Colors Tamil" tvg-logo="http://tvmalaysia.cc:80/images/d009936ac07ce93aff60ca243a935867.png" group-title="Astro",Colors Tamil
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6716
-#EXTINF:-1 tvg-id="MY: ZEE TAMIL HD" tvg-name="ASTRO Zee Tamil HD" tvg-logo="http://tvmalaysia.cc:80/images/d267f5fc09422eb151ff69f3002b7550.jpg" group-title="Astro",ASTRO Zee Tamil HD
+#EXTINF:-1 tvg-id="MY: ZEE TAMIL HD" tvg-name="ASTRO Zee Tamil HD" tvg-logo="http://tvmalaysia.cc:80/images/d267f5fc09422eb151ff69f3002b7550.jpg" group-title="Astro",Zee Tamil HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6742
-#EXTINF:-1 tvg-id="MY: GO SHOP 111" tvg-name="ASTRO GO Shop 2" tvg-logo="https://i.postimg.cc/7Pg69fNM/astro-go-resized-2.jpg" group-title="Astro",ASTRO GO Shop 2
+#EXTINF:-1 tvg-id="MY: GO SHOP 111" tvg-name="ASTRO GO Shop 2" tvg-logo="https://i.postimg.cc/7Pg69fNM/astro-go-resized-2.jpg" group-title="Astro",GO Shop 2
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6718
-#EXTINF:-1 tvg-id="MY: ASTRO VINMEEN HD" tvg-name="ASTRO Vinmeen HD" tvg-logo="http://tvmalaysia.cc:80/images/3371512e9f93371e840eec878d604870.png" group-title="Astro",ASTRO Vinmeen HD
+#EXTINF:-1 tvg-id="MY: ASTRO VINMEEN HD" tvg-name="ASTRO Vinmeen HD" tvg-logo="http://tvmalaysia.cc:80/images/3371512e9f93371e840eec878d604870.png" group-title="Astro",Vinmeen HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6739
-#EXTINF:-1 tvg-id="astrovaanavil.my" tvg-name="ASTRO Vaanavil HD" tvg-logo="http://tvmalaysia.cc:80/images/01160a03b56a9adbd2c9384e2260043a.png" group-title="Astro",ASTRO Vaanavil HD
+#EXTINF:-1 tvg-id="astrovaanavil.my" tvg-name="ASTRO Vaanavil HD" tvg-logo="http://tvmalaysia.cc:80/images/01160a03b56a9adbd2c9384e2260043a.png" group-title="Astro",Vaanavil HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6738
 #EXTINF:-1 tvg-id="MY: MAKKAL TV" tvg-name="Makkal TV" tvg-logo="http://tvmalaysia.cc:80/images/c2c744578467373139832ca2489e0121.jpg" group-title="Astro",Makkal TV
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6806
-#EXTINF:-1 tvg-id="MY: SUN TV HD" tvg-name="ASTRO Sun TV HD" tvg-logo="http://tvmalaysia.cc:80/images/ba3214fc268f0828141fd6fbe4d1f772.png" group-title="Astro",ASTRO Sun TV HD
+#EXTINF:-1 tvg-id="MY: SUN TV HD" tvg-name="ASTRO Sun TV HD" tvg-logo="http://tvmalaysia.cc:80/images/ba3214fc268f0828141fd6fbe4d1f772.png" group-title="Astro",Sun TV HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6733
-#EXTINF:-1 tvg-id="MY: STAR VIJAY HD" tvg-name="ASTRO Star Vijay HD" tvg-logo="http://tvmalaysia.cc:80/images/1250cc23dba5827d4c03bac3b6c87ec8.jpg" group-title="Astro",ASTRO Star Vijay HD
+#EXTINF:-1 tvg-id="MY: STAR VIJAY HD" tvg-name="ASTRO Star Vijay HD" tvg-logo="http://tvmalaysia.cc:80/images/1250cc23dba5827d4c03bac3b6c87ec8.jpg" group-title="Astro",Star Vijay HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6732
 #EXTINF:-1 tvg-name="Jaya Max" tvg-logo="http://tvmalaysia.cc:80/images/c63c1f0b2626a7477939f687005ecd38.jpg" group-title="Astro",Jaya Max
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6802
 #EXTINF:-1 tvg-id="MY: CHUTTI TV" tvg-name="Chutti TV" tvg-logo="http://tvmalaysia.cc:80/images/d90c7221dddda72c2f4d12da068abbd5.jpg" group-title="Astro",Chutti TV
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6762
-#EXTINF:-1 tvg-id="MY: iQIYI HD" tvg-name="ASTRO iQIYI HD" tvg-logo="https://i.postimg.cc/J0DjYJRQ/IMG-20201125-230926.jpg" group-title="Astro",ASTRO iQIYI HD
+#EXTINF:-1 tvg-id="MY: iQIYI HD" tvg-name="ASTRO iQIYI HD" tvg-logo="https://i.postimg.cc/J0DjYJRQ/IMG-20201125-230926.jpg" group-title="Astro",iQIYI HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6723
-#EXTINF:-1 tvg-id="MY: ASTRO HUA HEE DAI HD" tvg-name="ASTRO Hua Hee Dai HD" tvg-logo="https://i.postimg.cc/nhMDcByY/IMG-20201125-230458.jpg" group-title="Astro",ASTRO Hua Hee Dai HD
+#EXTINF:-1 tvg-id="MY: ASTRO HUA HEE DAI HD" tvg-name="ASTRO Hua Hee Dai HD" tvg-logo="https://i.postimg.cc/nhMDcByY/IMG-20201125-230458.jpg" group-title="Astro",Hua Hee Dai HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6722
-#EXTINF:-1 tvg-id="MY: HELLO HD" tvg-name="ASTRO Hello" tvg-logo="https://i.postimg.cc/4xGCbQ5s/Astro-HEllo.jpg" group-title="Astro",ASTRO Hello
+#EXTINF:-1 tvg-id="MY: HELLO HD" tvg-name="ASTRO Hello" tvg-logo="https://i.postimg.cc/4xGCbQ5s/Astro-HEllo.jpg" group-title="Astro",Hello
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6721
-#EXTINF:-1 tvg-id="ohk.my" tvg-name="ASTRO Oh!K HD" tvg-logo="http://tvmalaysia.cc:80/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Astro",ASTRO Oh!K HD
+#EXTINF:-1 tvg-id="ohk.my" tvg-name="ASTRO Oh!K HD" tvg-logo="http://tvmalaysia.cc:80/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="Astro",Oh!K HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6726
-#EXTINF:-1 tvg-id="MY: ASTRO QUAN JIA HD" tvg-name="ASTRO Quan Jia HD" tvg-logo="https://i.postimg.cc/KYLTTLZX/QJHD-E.jpg" group-title="Astro",ASTRO Quan Jia HD
+#EXTINF:-1 tvg-id="MY: ASTRO QUAN JIA HD" tvg-name="ASTRO Quan Jia HD" tvg-logo="https://i.postimg.cc/KYLTTLZX/QJHD-E.jpg" group-title="Astro",Quan Jia HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6728
-#EXTINF:-1 tvg-id="MY: ASTRO SHUANG XING HD" tvg-name="ASTRO Shuang Xing HD" tvg-logo="https://i.postimg.cc/d1T3TKv5/Astro-Shuang-Xing-2015.png" group-title="Astro",ASTRO Shuang Xing HD
+#EXTINF:-1 tvg-id="MY: ASTRO SHUANG XING HD" tvg-name="ASTRO Shuang Xing HD" tvg-logo="https://i.postimg.cc/d1T3TKv5/Astro-Shuang-Xing-2015.png" group-title="Astro",Shuang Xing HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6731
-#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV PT3" tvg-name="ASTRO Tutor TV PT3" tvg-logo="https://i.postimg.cc/TPTncYQN/TTV-PT3.png" group-title="Astro",ASTRO Tutor TV PT3
+#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV PT3" tvg-name="ASTRO Tutor TV PT3" tvg-logo="https://i.postimg.cc/TPTncYQN/TTV-PT3.png" group-title="Astro",Tutor TV PT3
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6734
-#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV SPM" tvg-name="ASTRO Tutor TV SPM" tvg-logo="https://i.postimg.cc/tgSQqJML/TTV-SPM.png" group-title="Astro",ASTRO Tutor TV SPM
+#EXTINF:-1 tvg-id="MY: ASTRO TUTOR TV SPM" tvg-name="ASTRO Tutor TV SPM" tvg-logo="https://i.postimg.cc/tgSQqJML/TTV-SPM.png" group-title="Astro",Tutor TV SPM
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6735
-#EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-name="ASTRO Tutor TV UPSR" tvg-logo="https://i.postimg.cc/tC5rQffc/TTV-UPSR.png" group-title="Astro",ASTRO Tutor TV UPSR
+#EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-name="ASTRO Tutor TV UPSR" tvg-logo="https://i.postimg.cc/tC5rQffc/TTV-UPSR.png" group-title="Astro",Tutor TV UPSR
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6736
-#EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-name="ASTRO TVIQ" tvg-logo="https://i.postimg.cc/Hk0WDF7F/Astro-TVIQ-2007.png" group-title="Astro",ASTRO TVIQ
+#EXTINF:-1 tvg-id="MY: ASTRO TVIQ" tvg-name="ASTRO TVIQ" tvg-logo="https://i.postimg.cc/Hk0WDF7F/Astro-TVIQ-2007.png" group-title="Astro",TVIQ
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6737
-#EXTINF:-1 tvg-id="MY: ASTRO XIAO TAI YANG HD" tvg-name="ASTRO Xiao Tai Yang HD" tvg-logo="https://i.postimg.cc/TYSnS5Xp/images-25.jpg" group-title="Astro",ASTRO Xiao Tai Yang HD
+#EXTINF:-1 tvg-id="MY: ASTRO XIAO TAI YANG HD" tvg-name="ASTRO Xiao Tai Yang HD" tvg-logo="https://i.postimg.cc/TYSnS5Xp/images-25.jpg" group-title="Astro",Xiao Tai Yang HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6741
 #EXTINF:-1 tvg-id="MY: AXN HD" tvg-name="AXN HD" tvg-logo="https://i.postimg.cc/J02hdXvx/images-10.png" group-title="Astro",AXN HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6743
@@ -211,7 +201,7 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/6798
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6797
 #EXTINF:-1 tvg-name="WLT JADE" group-title="Astro",WLT JADE
 http://iptv.tvmalaysia.cc:80/penang123/penang123/8836
-#EXTINF:-1 tvg-name="Astro Wah Lai Toi" group-title="Astro",Astro Wah Lai Toi
+#EXTINF:-1 tvg-name="Astro Wah Lai Toi" group-title="Astro",Wah Lai Toi
 http://iptv.tvmalaysia.cc:80/penang123/penang123/8970
 #EXTINF:-1 tvg-name="மக்கள் தொலைக்காட்சி" group-title="Astro",மக்கள் தொலைக்காட்சி
 http://iptv.tvmalaysia.cc:80/penang123/penang123/8995
@@ -225,8 +215,6 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/7266
 http://iptv.tvmalaysia.cc:80/penang123/penang123/8750
 #EXTINF:-1 tvg-id="tv9.my" tvg-name="TV 9" tvg-logo="http://tvmalaysia.cc:80/images/4cc2f264fadb0fe24376bd9dc1cae3f7.png" group-title="Malaysia",TV 9
 http://iptv.tvmalaysia.cc:80/penang123/penang123/7185
-#EXTINF:-1 tvg-name="RTM Sports" tvg-logo="http://tvmalaysia.cc:80/images/8ea5fad488df48902e34c566ac1fc8ec.png" group-title="Malaysia",RTM Sports
-http://iptv.tvmalaysia.cc:80/penang123/penang123/7186
 #EXTINF:-1 tvg-id="animalplanet.my" tvg-name="TV IKIM" tvg-logo="http://tvmalaysia.cc:80/images/31a651c00450427d27fca4ef7c465b89.jpg" group-title="Malaysia",TV IKIM
 http://iptv.tvmalaysia.cc:80/penang123/penang123/7192
 #EXTINF:-1 tvg-id="beritartm.my" tvg-name="Berita RTM" tvg-logo="http://tvmalaysia.cc:80/images/47e157d2927a350f7881bfe6a377da74.jpg" group-title="Malaysia",Berita RTM
