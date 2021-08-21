@@ -219,8 +219,8 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/7192
 http://iptv.tvmalaysia.cc:80/penang123/penang123/7191
 #EXTINF:-1 tvg-id="bernamatv.my" tvg-name="BERNAMA" tvg-logo="http://tvmalaysia.cc:80/images/34b4aab4d257e7d335f410bf3decafe2.png" group-title="Malaysia",BERNAMA
 http://iptv.tvmalaysia.cc:80/penang123/penang123/7190
-#EXTINF:-1 tvg-id="ID: !NSERT" tvg-name="RTB MALAYSIA" tvg-logo="https://i.postimg.cc/wjjd9YH7/RTB-Sukmaindera.png" group-title="Malaysia",RTB MALAYSIA
-http://iptv.tvmalaysia.cc:80/penang123/penang123/7188
+#EXTINF:-1 tvg-id="ID: !NSERT" tvg-name="RTB MALAYSIA" tvg-logo="https://i.postimg.cc/wjjd9YH7/RTB-Sukmaindera.png" group-title="Malaysia",RTB Sukmaindera
+https://d19j8udk9agj55.cloudfront.net/smil:rtb1/chunklist_w287540935_b2736000_sleng.m3u8
 #EXTINF:-1 tvg-id="ntv7.my" tvg-name="Didik TV (NTV 7)" tvg-logo="https://didik.tv/images/logotv2.png" group-title="Malaysia",Didik TV (NTV 7)
 http://iptv.tvmalaysia.cc:80/penang123/penang123/8922
 #EXTINF:-1 tvg-id="foxmoviespremiumhd.id" tvg-name="Fox Movies Premium" tvg-logo="http://tvmalaysia.cc:80/images/063a1e48ae1996a258b35db937d48c9b.jpg" group-title="Movie",Fox Movies Premium
