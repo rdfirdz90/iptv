@@ -48,7 +48,7 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/6729
 #EXTINF:-1 tvg-id="astroawani.my" tvg-name="ASTRO Awani HD" tvg-logo="http://tvmalaysia.cc:80/images/3bee1d8c69f8fd72b53dba6e2feef0f7.png" group-title="Astro",Awani HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6714
 #EXTINF:-1 tvg-id="astroceria.my" tvg-name="ASTRO Ceria HD" tvg-logo="http://tvmalaysia.cc:80/images/0bb9f1ec6575c3609eb8af6c1ba0e154.jpg" group-title="Astro",Ceria HD
-http://iptv.tvmalaysia.cc:80/penang123/penang123/6715
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="MY: ABC AUSTRALIA" tvg-name="ABC Australia" tvg-logo="http://tvmalaysia.cc:80/images/cd8015182af2a1350c156be7f4913720.jpg" group-title="Astro",ABC Australia
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6692
 #EXTINF:-1 tvg-id="asianfoodchannel.id" tvg-name="Asian Food Network HD" tvg-logo="http://tvmalaysia.cc:80/images/b6c0bc890beff0eeadf6c10e6c9d4d5d.png" group-title="Astro",Asian Food Network HD
