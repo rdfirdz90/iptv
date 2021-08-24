@@ -38,7 +38,7 @@ http://iptv.tvmalaysia.cc:80/penang123/penang123/8872
 #EXTINF:-1 tvg-id="naura.my" tvg-name="ASTRO Naura HD" tvg-logo="http://tvmalaysia.cc:80/images/3fc806e53327b40380da6ee1da935b08.png" group-title="Astro",Naura HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6724
 #EXTINF:-1 tvg-id="awesometv.my" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/0146208cd80a3023076acb907b451381.png" group-title="Astro",Awesome TV
-http://iptv.tvmalaysia.cc:80/penang123/penang123/9016
+http://51.79.223.246:61980/myplay/c_58014/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 #EXTINF:-1 tvg-id="astrooasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="http://tvmalaysia.cc:80/images/204c81bf83a076777488ae8222c4e7d4.png" group-title="Astro",Oasis HD
 http://iptv.tvmalaysia.cc:80/penang123/penang123/6725
 #EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="Astro",Aura HD
