@@ -54,7 +54,7 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:-1 tvg-name="RTB SUKMAINDERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BRUNEI",RTB SUKMAINDERA
 
 #EXTINF:0 tvg-id="ext" group-title="SINGAPORE",SURIA
-http://185.180.221.194:8278/streams/d/Suria/playlist.m3u8
+https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
 #EXTINF:0 tvg-id="Channel5.uk" group-title="SINGAPORE",CHANNEL 5
 http://198.16.106.61:8277/streams/d/Channel5HD/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SINGAPORE",VASANTHAM
