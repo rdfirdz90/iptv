@@ -1,73 +1,101 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/2560px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV1
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/656px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV1
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/1
-#EXTINF:-1 tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="MALAYSIA",TV2
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/656px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV1
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/2
+#EXTINF:-1 tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/789px-Logo_of_TV2_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV2
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/3
-#EXTINF:-1 tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1280px-TV3_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV3
+#EXTINF:-1 tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Logo_of_TV2_%28Malaysia%29.svg/789px-Logo_of_TV2_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV2
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/4
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/160px-TV3_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV3
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/5
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/160px-TV3_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV3
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/6
-#EXTINF:-1 tvg-name="TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/220px-TVS_Sarawak.jpg" group-title="MALAYSIA",TVS
-https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
-#EXTINF:-1 tvg-name="TV OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TV_Okey_RTM.png/800px-TV_Okey_RTM.png" group-title="MALAYSIA",TV OKEY
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/12
-#EXTINF:-1 tvg-name="HELLO" tvg-logo="https://www.allansonstreetprimary.co.uk/wp-content/uploads/2020/05/hello-790x523.jpg" group-title="MALAYSIA",HELLO
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/32
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/160px-TV3_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV3
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/7
 #EXTINF:-1 tvg-name="DIDIK TV" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA",DIDIK TV
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/8
+#EXTINF:-1 tvg-name="8 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="MALAYSIA",8 TV
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/9
 #EXTINF:-1 tvg-name="TV 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_%28Malaysia%29.svg/538px-Logo_of_TV9_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV 9
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/10
-#EXTINF:-1 tvg-name="TV AL-HIJRAH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/538px-Logo_of_the_TV_Alhijrah.svg.png" group-title="MALAYSIA",TV AL-HIJRAH
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/14
-#EXTINF:-1 tvg-name="BERNAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Bernama_%28logo%29.jpg/220px-Bernama_%28logo%29.jpg" group-title="MALAYSIA",BERNAMA
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/15
-#EXTINF:-1 tvg-name="DRAMA SANGAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png/revision/latest/scale-to-width-down/1000?cb=20191016084737" group-title="MALAYSIA",DRAMA SANGAT
+#EXTINF:-1 tvg-name="YV 9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Logo_of_TV9_%28Malaysia%29.svg/538px-Logo_of_TV9_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV 9
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/11
+#EXTINF:-1 tvg-name="TV OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TV_Okey_RTM.png/800px-TV_Okey_RTM.png" group-title="MALAYSIA",TV OKEY
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/12
+#EXTINF:-1 tvg-name="DRAMA SANGAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Dramasangat.png" group-title="MALAYSIA",DRAMA SANGAT
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/13
-#EXTINF:-1 tvg-name="ASTRO RIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="ASTRO",ASTRO RIA
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
-#EXTINF:-1 tvg-name="ASTRO PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="ASTRO",ASTRO PRIMA
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/21
-#EXTINF:-1 tvg-name="ASTRO OASIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="ASTRO",ASTRO OASIS
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 tvg-name="ASTRO CERIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="ASTRO",ASTRO CERIA
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/20
-#EXTINF:-1 tvg-name="ASTRO CITRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="ASTRO",ASTRO CITRA
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/26
-#EXTINF:-1 tvg-name="ASTRO AWANI" tvg-logo="https://axial.ai/wp-content/uploads/2020/04/astro-awarni.png" group-title="ASTRO",ASTRO AWANI
+#EXTINF:-1 tvg-name="TV ALHIJRAH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/538px-Logo_of_the_TV_Alhijrah.svg.png" group-title="MALAYSIA",TV ALHIJRAH
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/14
+#EXTINF:-1 tvg-name="BERNAMA" tvg-logo="https://seeklogo.com/images/B/bernama-logo-F2CC00FE6A-seeklogo.com.png" group-title="MALAYSIA",BERNAMA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/15
+#EXTINF:-1 tvg-name="TV 6" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="MALAYSIA",TV 6
+https://rtm6mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+#EXTINF:-1 tvg-name="TV SARAWAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/220px-TVS_Sarawak.jpg" group-title="MALAYSIA",TV SARAWAK
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+#EXTINF:-1 tvg-name="ASTRO AWANI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png" group-title="MALAYSIA",ASTRO AWANI
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/16
+#EXTINF:-1 tvg-name="ASTRO AWANI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png" group-title="MALAYSIA",ASTRO AWANI
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/17
-#EXTINF:-1 tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="ASTRO",ASTRO WARNA
+#EXTINF:-1 tvg-name="ASTRO OASIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="MALAYSIA",ASTRO OASIS
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/18
+#EXTINF:-1 tvg-name="ASTRO CERIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Astro_Ceria_%282D%29.png" group-title="MALAYSIA",ASTRO CERIA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/19
+#EXTINF:-1 tvg-name="ASTRO CERIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Astro_Ceria_%282D%29.png" group-title="MALAYSIA",ASTRO CERIA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/20
+#EXTINF:-1 tvg-name="ASTRO PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="MALAYSIA",ASTRO PRIMA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/21
+#EXTINF:-1 tvg-name="ASTRO PRIMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="MALAYSIA",ASTRO PRIMA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/22
+#EXTINF:-1 tvg-name="ASTRO RIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="MALAYSIA",ASTRO RIA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/23
+#EXTINF:-1 tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="MALAYSIA",ASTRO WARNA
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/24
-#EXTINF:-1 tvg-name="ASTRO AURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="ASTRO",ASTRO AURA
+#EXTINF:-1 tvg-name="ASTRO WARNA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="MALAYSIA",ASTRO WARNA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/25
+#EXTINF:-1 tvg-name="ASTRO CITRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png" group-title="MALAYSIA",ASTRO CITRA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/26
+#EXTINF:-1 tvg-name="ASTRO CITRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png" group-title="MALAYSIA",ASTRO CITRA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/27
+#EXTINF:-1 tvg-name="ASTRO AURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="MALAYSIA",ASTRO AURA
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/28
-#EXTINF:-1 tvg-name="ASTRO RANIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="ASTRO",ASTRO RANIA
+#EXTINF:-1 tvg-name="ASTRO RANIA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Astro_Rania.png" group-title="MALAYSIA",ASTRO RANIA
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/29
-#EXTINF:-1 tvg-name="NAURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Naura_HD.png/220px-Naura_HD.png" group-title="ASTRO",NAURA
+#EXTINF:-1 tvg-name="NAURA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Naura_Channel_125_Logo.png" group-title="MALAYSIA",NAURA
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/30
-#EXTINF:-1 tvg-name="BOO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="ASTRO",BOO
+#EXTINF:-1 tvg-name="NAURA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Naura_Channel_125_Logo.png" group-title="MALAYSIA",NAURA
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/31
+#EXTINF:-1 tvg-name="HELLO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Hello_TV.png" group-title="MALAYSIA",HELLO
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/32
+#EXTINF:-1 tvg-name="BOO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png" group-title="MALAYSIA",BOO
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/33
-#EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-trans-7-png-6.png" group-title="INDONESIA",TRANS TV
+#EXTINF:-1 tvg-name="RTB SUKMAINDERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BRUNEI",RTB SUKMAINDERA
+https://d19j8udk9agj55.cloudfront.net/smil:rtb1/chunklist_w166039849_b2736000_sleng.m3u8
+#EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://www.vhv.rs/dpng/d/524-5242341_thumb-image-download-logo-trans-tv-hd-png.png" group-title="INDONESIA",TRANS TV
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/34
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://1.bp.blogspot.com/-WGwAI9yh7v8/XwuUphRrO3I/AAAAAAAACWQ/2VrYHGDj3_Y80tX-15K4vednqt-Yc3oHwCLcBGAsYHQ/s400/Logo%2BTrans%2B7.png" group-title="INDONESIA",TRANS 7
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/35
-#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png" group-title="INDONESIA",INDOSIAR
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/36
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://banner2.cleanpng.com/20180402/vaq/kisspng-sctv-television-channel-tvone-broadcasting-about-us-5ac246cabf1068.7562104415226815467826.jpg" group-title="INDONESIA",SCTV
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/89px-SCTV_Logo.svg.png" group-title="INDONESIA",SCTV
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/37
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://e7.pngegg.com/pngimages/239/762/png-clipart-rcti-television-logo-gtv-sctv-tv-program-logo-blue-text.png" group-title="INDONESIA",RCTI
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/38
-#EXTINF:-1 tvg-name="G TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="INDONESIA",G TV
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/800px-GTV_logo_%282017%29.png" group-title="INDONESIA",GTV
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/39
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/798px-MNCTV_logo.png" group-title="INDONESIA",MNC TV
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/40
-#EXTINF:-1 tvg-name="NET." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQaD6J7OZ2BrkFE2VeHzCt9Ar7_CasQbR6LhlTXLuoSVHaI8WGxAbr8o_0MqUxvLuyjbs&usqp=CAU" group-title="INDONESIA",NET.
+#EXTINF:-1 tvg-name="NET." tvg-logo="https://assets.pikiran-rakyat.com/crop/49x0:609x336/x/photo/2020/12/10/570343345.jpg" group-title="INDONESIA",NET.
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/41
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Antv_logo_%282017%29.png" group-title="INDONESIA",ANTV
+#EXTINF:-1 tvg-name="ANTV" group-title="INDONESIA" parent-code="https://upload.wikimedia.org/wikipedia/en/b/b6/Antv_logo_%282017%29.png",ANTV
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/42
-#EXTINF:-1 tvg-name="ASTRO AEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png" group-title="ASTRO CHINESE",ASTRO AEC
+#EXTINF:-1 tvg-name="ASTRO AEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png" group-title="CHINESE",ASTRO AEC
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/43
+#EXTINF:-1 tvg-name="ASTRO AOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Astro_AOD_%282D%29.png" group-title="CHINESE",ASTRO AOD
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/44
-#EXTINF:-1 tvg-name="ASTRO AOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Astro_AOD_%282D%29.png" group-title="ASTRO CHINESE",ASTRO AOD
-https://static.wikia.nocookie.net/logopedia/images/3/33/Astro_AOD_%282D%29.png/revision/latest?cb=20200527073825
-#EXTINF:-1 tvg-name="ASTRO QUAN JIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" group-title="ASTRO CHINESE",ASTRO QUAN JIA
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/47
-#EXTINF:-1 tvg-name="ASTRO HUA HEE DAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Astro_HHD.png/220px-Astro_HHD.png" group-title="ASTRO CHINESE",ASTRO HUA HEE DAI
+#EXTINF:-1 tvg-name="ASTRO WAH LAI TOI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" group-title="CHINESE",ASTRO WAH LAI TOI
 http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/46
-#EXTINF:-1 tvg-name="RTB SUKMAINDERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/RTB_Sukmaindera.png/220px-RTB_Sukmaindera.png" group-title="BRUNEI",RTB SUKMAINDERA
-https://d19j8udk9agj55.cloudfront.net/smil:rtb1/chunklist_w1367605466_b2736000_sleng.m3u8
+#EXTINF:-1 tvg-name="ASTRO SHUANG XING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" group-title="CHINESE",ASTRO SHUANG XING
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/47
+#EXTINF:-1 tvg-name="IQIYI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="CHINESE",IQIYI
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/48
