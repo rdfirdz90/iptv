@@ -53,170 +53,6 @@ http://50.7.161.82:8277/streams/d/Ceria/playlist.m3u8
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEW ASTRO",HELLO
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",AEC
-http://198.16.106.61:8277/streams/d/Aec1511/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",ANTV
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:0 tvg-id="AlJazeera.nws" group-title="MALAYSIA",AL JAZEERA
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:0 tvg-id="CrimeAndInvestigation.nl" group-title="MALAYSIA",CRIME+INVESTIGATION
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
-#EXTINF:0 tvg-id="WarnerHD.mx" group-title="MALAYSIA",WARNER TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",FMN
-https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
-#EXTINF:0 tvg-id="SkyCinemaHits.de" group-title="MALAYSIA",HITS
-https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-#EXTINF:0 tvg-id="Kix.uk" group-title="MALAYSIA",KIX
-https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-#EXTINF:0 tvg-id="OneTV.ch" group-title="MALAYSIA",ONE TV
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",WAKU2 JAPAN
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",OH!K
-http://50.7.161.82:8277/streams/d/Ohk/playlist.m3u8
-#EXTINF:0 tvg-id="KBSWorld.kr" group-title="MALAYSIA",KBS WORLD
-http://50.7.161.82:8277/streams/d/KBS/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",HUNAN TV HD
-https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
-#EXTINF:0 tvg-id="TVN.pl" group-title="MALAYSIA",TVN
-https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",TVN MOVIES
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",BLUE ANT ENTERTAINMENT
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",BLUE ANT EXTREME
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="MALAYSIA",COMEDY CENTRAL
-http://62.182.81.91:80/engelsman/MZSFVUOYHK/2927
-#EXTINF:0 tvg-id="101.nl" group-title="MALAYSIA",TV1
-http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
-#EXTINF:0 tvg-id="TV2.dk" group-title="MALAYSIA",TV2
-http://1.9.62.158/PLTV/88888888/224/3221227490/3221227490.mpd
-#EXTINF:0 tvg-id="VirginMediaOne.ie" group-title="MALAYSIA",TV3
-http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",DidikTV KPM
-http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd
-#EXTINF:0 tvg-id="8TV.pl" group-title="MALAYSIA",8TV
-http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",TV9
-http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Salam HD
-http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",TV Alhijrah
-http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",HyppSensasi HD
-http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",HyppInspirasi HD
-http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Dunia Sinema HD
-http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Pesona HD
-http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Laku Mall HD
-http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",tvN Movies HD
-http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",SETI
-http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd
-#EXTINF:0 tvg-id="TVN.pl" group-title="MALAYSIA",TVN HD
-http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",SCM Legend HD
-http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",SCM HD
-http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Star Chinese Channel HD
-http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd
-#EXTINF:0 tvg-id="FOXmovies.svn" group-title="MALAYSIA",FOX Movies HD
-http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",FOX Action Movies HD
-http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",FOX Family Movies HD
-http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd
-#EXTINF:0 tvg-id="Paramount.es" group-title="MALAYSIA",Paramount Network
-http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",CinemaWorld HD
-http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Warner TV HD
-http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
-#EXTINF:0 tvg-id="FX.uk" group-title="MALAYSIA",FOX
-http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd
-#EXTINF:0 tvg-id="FX.uk" group-title="MALAYSIA",FX
-http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd
-#EXTINF:0 tvg-id="fox-life" group-title="MALAYSIA",FOX Life
-http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Blue Ant Entertainment
-http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Blue Ant Extreme
-http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
-#EXTINF:0 tvg-id="inter" group-title="MALAYSIA",BBC Earth HD
-http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
-#EXTINF:0 tvg-id="LoveNature.nl" group-title="MALAYSIA",Love Nature HD
-http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="MALAYSIA",National Geographic HD
-http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
-#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="MALAYSIA",Nat Geo Wild HD
-http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd
-#EXTINF:0 tvg-id="NatGeoPeople.it" group-title="MALAYSIA",Nat Geo People HD
-http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
-#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="MALAYSIA",BBC Lifestyle HD
-http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
-#EXTINF:0 tvg-id="TravelChannelHD.eu" group-title="MALAYSIA",Travel Channel HD
-http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd
-#EXTINF:0 tvg-id="LuxeTV.eu" group-title="MALAYSIA",Luxe.TV HD
-http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",MTV Asia
-http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Dreamworks HD
-http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd
-#EXTINF:0 tvg-id="NickJunior.uk" group-title="MALAYSIA",Nick Jr.
-http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd
-#EXTINF:0 tvg-id="CBeebies.uk" group-title="MALAYSIA",CBeebies HD
-http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="MALAYSIA",Nickelodeon
-http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="MALAYSIA",Boomerang HD
-http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
-#EXTINF:0 tvg-id="BabyTV.fr" group-title="MALAYSIA",Baby TV HD
-http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd
-#EXTINF:0 tvg-id="bbc-world" group-title="MALAYSIA",BBC World News HD
-http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd
-#EXTINF:0 tvg-id="AlJazeera.nws" group-title="MALAYSIA",Al Jazeera
-http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="MALAYSIA",Sky News HD
-http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Channel NewsAsia
-http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd
-#EXTINF:0 tvg-id="Euronews.nws" group-title="MALAYSIA",Euronews
-http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",BNC
-http://1.9.58.102/PLTV/88888888/224/3221227511/3221227511.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Parlimen Malaysia
-http://1.9.58.102/PLTV/88888888/224/3221227546/3221227546.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",ABC Australia
-http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd
-#EXTINF:0 tvg-id="DW.al" group-title="MALAYSIA",DW
-http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd
-#EXTINF:0 tvg-id="nhk-world" group-title="MALAYSIA",NHK WORLD-JAPAN
-http://1.9.62.158/PLTV/88888888/224/3221227626/3221227626.mpd
-#EXTINF:0 tvg-id="france24" group-title="MALAYSIA",France24
-http://1.9.62.158/PLTV/88888888/224/3221227629/3221227629.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Unifi Sports 1
-http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Unifi Sports 2
-http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Unifi Sports 3
-http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Unifi Sports 4
-http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",Unifi Sports 5
-http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
-#EXTINF:0 tvg-id="FoxSports.it" group-title="MALAYSIA",FOX Sports HD
-http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
-#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="MALAYSIA",FOX Sports 2 HD
-http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
-#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="MALAYSIA",FOX Sports 3 HD
-http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
 #EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="NEW DOCUMENTARIES",ANIMAL PLANET
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #EXTINF:0 tvg-id="Discovery.uk" group-title="NEW DOCUMENTARIES",DISCOVERY
@@ -295,27 +131,27 @@ http://198.16.106.61:8277/streams/d/Wlt/playlist.m3u8
 http://50.7.161.82:8277/streams/d/Xinhe/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NEW CHINESE",XIAO TAI YANG
 http://50.7.161.82:8277/streams/d/xiaotaiyang_pye/playlist.m3u8
-#EXTINF:0 tvg-id="Animax.de" group-title="CARTOON",ANIMAX
+#EXTINF:0 tvg-id="Animax.de" group-title="NEW CARTOON",ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-#EXTINF:0 tvg-id="ext" group-title="CARTOON",DREAMWORK
+#EXTINF:0 tvg-id="ext" group-title="NEW CARTOON",DREAMWORK
 http://77.247.108.32:8080/oMnFdj88ij/uQjzzncJGN/157610
-#EXTINF:0 tvg-id="Disney.uk" group-title="CARTOON",DISNEY CHANNEL
+#EXTINF:0 tvg-id="Disney.uk" group-title="NEW CARTOON",DISNEY CHANNEL
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="CARTOON",DISNEY JR
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="NEW CARTOON",DISNEY JR
 https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="CARTOON",CARTOON NETWORK
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="NEW CARTOON",CARTOON NETWORK
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-#EXTINF:0 tvg-id="NickJunior.uk" group-title="CARTOON",NICK JR
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="NEW CARTOON",NICK JR
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="CARTOON",NICKELODEON
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="NEW CARTOON",NICKELODEON
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-#EXTINF:0 tvg-id="CBeebies.uk" group-title="CARTOON",CBEEBIES
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="NEW CARTOON",CBEEBIES
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="CARTOON",BOOMERANG
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="NEW CARTOON",BOOMERANG
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-#EXTINF:0 tvg-id="ext" group-title="CARTOON",No name
+#EXTINF:0 tvg-id="ext" group-title="NEW CARTOON",No name
 http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="CARTOON",BABY TV
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="NEW CARTOON",BABY TV
 http://198.16.106.61:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MOVIE/ENTERTAINMENT",MOVIE 24/7
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -625,56 +461,6 @@ http://Mastro@77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",TVRI SPORT HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",RTM1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",RTM2
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-#EXTINF:0 tvg-id="VirginMediaOne.ie" group-title="MALAYSIA 1",TV3 SD
-http://50.7.161.82:8278/streams/d/TV3sd/playlist.m3u8
-#EXTINF:0 tvg-id="VirginMediaOne.ie" group-title="MALAYSIA 1",TV3 HD
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:0 tvg-id="tv6-lat" group-title="MALAYSIA 1",TV6
-https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",NTV7/DIDIKTV
-http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-#EXTINF:0 tvg-id="8TV.pl" group-title="MALAYSIA 1",8TV
-http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:0 tvg-id="8TV.pl" group-title="MALAYSIA 1",8TV BACKUP
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",TV9
-http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",TV Alhijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",Hello
-http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",DIDIK TV
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",RTB SUKMAINDERA
-https://rtb-channel.glue.live/smil:rtb1/chunklist_w48379154_b1696000_sleng.m3u8
-#EXTINF:0 tvg-id="TVS.pl" group-title="MALAYSIA 1",TVS
-https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_03.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",IKLIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",GO SHOP
-https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",BERNAMA
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:0 tvg-id="Channel8.il" group-title="MALAYSIA 1",Channel 8
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",Channel U
-https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",Pesona HD
-http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd
-#EXTINF:0 tvg-id="ArirangTv.kr" group-title="MALAYSIA 1",Arirang TV
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",Now Jelli HD
-http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",Colors Tamil HD
-http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd
-#EXTINF:0 tvg-id="ext" group-title="MALAYSIA 1",Polimer
-http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd
 #EXTINF:0 tvg-id="ext" group-title="INDONESIA",TVRI
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 #EXTINF:0 tvg-id="ext" group-title="INDONESIA",INDOSIAR
