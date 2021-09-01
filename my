@@ -51,8 +51,8 @@ http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/29
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/118%281%29.png" group-title="MALAYSIA",GO SHOP
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
-#EXTINF:-1 tvg-name="RTB SUKMAINDERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BRUNEI",RTB SUKMAINDERA
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BRUNEI",RTB SUKMAINDERA
+https://d19j8udk9agj55.cloudfront.net/smil:rtb1/chunklist_w745247066_b2736000_sleng.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Mediacorp_Suria_logo.jpg" group-title="SINGAPORE",SURIA
 https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
 #EXTINF:0 tvg-id="Channel5.uk" tvg-logo="https://e7.pngegg.com/pngimages/126/515/png-clipart-logo-television-mediacorp-channel-8-mediacorp-channel-5-design-television-logo-thumbnail.png" group-title="SINGAPORE",CHANNEL 5
